@@ -1,0 +1,12 @@
+C:\Users\Salih\source\repos\Task-Level2-Test-App2\bin\Debug\Task-Level2-Test-App2.exe.config
+C:\Users\Salih\source\repos\Task-Level2-Test-App2\bin\Debug\Task-Level2-Test-App2.exe
+C:\Users\Salih\source\repos\Task-Level2-Test-App2\bin\Debug\Task-Level2-Test-App2.pdb
+C:\Users\Salih\source\repos\Task-Level2-Test-App2\obj\Debug\Task-Level2-Test-App2.csproj.AssemblyReference.cache
+C:\Users\Salih\source\repos\Task-Level2-Test-App2\obj\Debug\Task-Level2-Test-App2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Salih\source\repos\Task-Level2-Test-App2\obj\Debug\Task_Level2_Test_App2.loginScreen.resources
+C:\Users\Salih\source\repos\Task-Level2-Test-App2\obj\Debug\Task_Level2_Test_App2.Properties.Resources.resources
+C:\Users\Salih\source\repos\Task-Level2-Test-App2\obj\Debug\Task-Level2-Test-App2.csproj.GenerateResource.cache
+C:\Users\Salih\source\repos\Task-Level2-Test-App2\obj\Debug\Task-Level2-Test-App2.csproj.CoreCompileInputs.cache
+C:\Users\Salih\source\repos\Task-Level2-Test-App2\obj\Debug\Task-Level2-Test-App2.exe
+C:\Users\Salih\source\repos\Task-Level2-Test-App2\obj\Debug\Task-Level2-Test-App2.pdb
+C:\Users\Salih\source\repos\Task-Level2-Test-App2\obj\Debug\Task_Level2_Test_App2.transactionScreen.resources

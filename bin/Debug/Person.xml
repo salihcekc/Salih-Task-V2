@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <ID>1</ID>
+    <LastName>Pam</LastName>
+    <FirstName>Beesly    </FirstName>
+    <PersonalID>455143</PersonalID>
+    <HireDate>2013-07-12T00:00:00</HireDate>
+  </Employee>
+  <Employee>
+    <ID>2</ID>
+    <LastName>Kelly</LastName>
+    <FirstName>Grace     </FirstName>
+    <PersonalID>458794</PersonalID>
+    <HireDate>2015-05-26T00:00:00</HireDate>
+  </Employee>
+  <Employee>
+    <ID>3</ID>
+    <LastName>Thomas</LastName>
+    <FirstName>More      </FirstName>
+    <PersonalID>455714</PersonalID>
+    <HireDate>2017-09-06T00:00:00</HireDate>
+  </Employee>
+  <Employee>
+    <ID>4</ID>
+    <LastName>Schrute</LastName>
+    <FirstName>Dwight    </FirstName>
+    <PersonalID>455544</PersonalID>
+    <HireDate>2012-02-10T00:00:00</HireDate>
+  </Employee>
+  <Employee>
+    <ID>5</ID>
+    <LastName>Scott</LastName>
+    <FirstName>Micheal</FirstName>
+    <PersonalID>455094</PersonalID>
+    <HireDate>2010-02-11T00:00:00</HireDate>
+  </Employee>
+</ArrayOfEmployee>
